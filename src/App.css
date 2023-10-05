@@ -148,10 +148,11 @@ nav.navbar{
 }
 
 .Projects{
-  height: 100vh;
+  height: auto;
   width: 100%;
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
   align-items: center;
 }
 
@@ -221,6 +222,9 @@ nav.navbar{
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+.project-3 .linktree h2{
+  font-size: 1.3rem;
 }
 .project-3 .linktree a{
   text-decoration: none;
@@ -381,8 +385,51 @@ nav.navbar{
 }
 
 .tectStack{
+  min-height: 500px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-around;
+  align-items: center;
+}
+.tectStack .coding a{
+  text-decoration: none;
+  color: #000;
+}
+.tectStack .coding{
+  height: auto;
+  max-width: 600px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+}
+
+.tectStack .coding .card{
+  min-width: 180px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 18px;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
+}
+
+.tectStack .coding .card .description h3{
+  font-size: 1.5rem;
+  color: #434343;
+}
+.tectStack .coding .card .description p{
+  font-size: 1rem;
+}
+.tectStack .coding .card .description{
+  padding: 5px;
+}
+.tectStack .coding .card img{
   width: 100%;
-  padding: 50px 350px;
+  height: 200px;
+  object-fit: cover;
+  background-position: center;
 }
 
 .tectStack .technical-skills .skills{
@@ -392,6 +439,9 @@ nav.navbar{
   gap: 10px;
   justify-content: center;
   align-items: center;
+}
+.tectStack .technical-skills{
+  width: 600px;
 }
 
 .tectStack .technical-skills h1{
@@ -692,5 +742,13 @@ nav.navbar{
   }
   .contact-content{
     height: 50%;
+  }
+  .tectStack .coding{
+    display: block;
+    flex-direction: column;
+    width: 100%;
+  }
+  .tectStack .coding .card{
+    width: 100%;
   }
 }

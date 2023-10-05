@@ -62,7 +62,7 @@ export default function Projects(props) {
           <img src={prj3} alt="moviesdb" />
         </div>
         <div className="linktree">
-        <h2>Want to view my other projects ?</h2>
+          <h2>Want to view my other projects ?</h2>
           <a href="https://linktr.ee/Aniketh03" target='_blank' rel="noreferrer">Other projects</a>
         </div>
       </div>
