@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio-new/static/css/main.1354ea69.css",
+    "main.js": "/Portfolio-new/static/js/main.39218ac1.js",
+    "static/media/Project3.png": "/Portfolio-new/static/media/Project3.d1f3886fbdca5fa9190e.png",
+    "static/media/Project2.png": "/Portfolio-new/static/media/Project2.d4351fac5a71fee85413.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Portfolio-new/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Portfolio-new/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Portfolio-new/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Busavale Dathrao.pdf": "/Portfolio-new/static/media/Busavale Dathrao.f48fca69e8dc0feef652.pdf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Portfolio-new/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Portfolio-new/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Project1.png": "/Portfolio-new/static/media/Project1.9324cd928727d30c19f9.png",
+    "static/media/arrow.png": "/Portfolio-new/static/media/arrow.bb855dbd65d02f879544.png",
+    "index.html": "/Portfolio-new/index.html",
+    "main.1354ea69.css.map": "/Portfolio-new/static/css/main.1354ea69.css.map",
+    "main.39218ac1.js.map": "/Portfolio-new/static/js/main.39218ac1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1354ea69.css",
+    "static/js/main.39218ac1.js"
+  ]
+}
